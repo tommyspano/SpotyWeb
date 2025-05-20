@@ -1,0 +1,5 @@
+com\spotyweb\db\DatabaseManager.class
+com\spotyweb\model\SongComment.class
+com\spotyweb\service\SpotifyService.class
+com\spotyweb\servlet\SearchServlet.class
+com\spotyweb\servlet\CommentServlet.class
